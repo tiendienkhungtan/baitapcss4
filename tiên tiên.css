@@ -1,0 +1,20 @@
+/* 1. Làm cho nền của trang web thành "antiquewhite" */
+body {
+    background-color: antiquewhite;
+}
+/* 2. Làm cho h1 màu "whitesmoke" */
+h1 {
+    color: whitesmoke;
+}
+/* 3. Làm cho nền của h1 là "darkseagreen" */
+h1 {
+    background-color: darkseagreen;
+}
+/* 4. Làm cho h2 màu "#FAF8F1" */
+h2 {
+    color: #FAF8F1;
+}
+/* 5. Tạo nền của h2 "#C58940" */
+h2 {
+    background-color: #C58940;
+}
